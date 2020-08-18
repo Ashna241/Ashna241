@@ -1,0 +1,33 @@
+.container{
+    height:100px;
+    align-content: center;
+    }
+    .card{
+        height: 350px;
+        margin-top: 70px;
+        margin-bottom: auto;
+        width: 600px;
+        background-color: rgba(177, 176, 111, 0.514) !important;
+        
+        }
+    
+
+    form{
+        font-size: 75px;
+        font-family: cursive;
+        text-align: center;
+        font-weight: bolder;
+    }
+    h1{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 50px;
+    }
+    h{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 22px;
+    }
+    body{
+        background-image: url("img2/pet2.jpg");
+        background-repeat: no-repeat;
+height: 100%;
+    }
